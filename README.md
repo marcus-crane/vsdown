@@ -1,4 +1,4 @@
-# VSDown - A handy download script
+# VSDown - Game asset downloader
 
 ![A screenshot of the script downloading a game manifest](/docs/downloading.png?raw=true)
 
