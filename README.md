@@ -4,7 +4,7 @@
 
 ## What to heck?
 
-I've been slowly trying to pull apart a mobile game I've been playing for a while now and I figured I'd "anonymise" some of my scripts and release them to show I'm actually doing things on github dot com.
+I've been slowly trying to pull apart a mobile game I've been playing for a while now and I figured I'd "anonymise" some of my scripts and release them to show I'm actually doing things on github dot com (i need my cubes!)
 
 This script is something quick I whipped up that downloads game assets from a cloudfront server directly to my laptop.
 
