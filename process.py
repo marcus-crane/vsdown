@@ -68,10 +68,10 @@ def getInput():
     url = input('> ')
 
     print("=> Downloading resource list")
-    #resourceList = downloadResourceList(url)
+    resourceList = downloadResourceList(url)
 
     print("=> Parsing resource list")
-    #parseResourceList(resourceList)
+    parseResourceList(resourceList)
 
     print("Do you want to run strings on the files too? (y/n)")
     strings = input('(y/n): ')
