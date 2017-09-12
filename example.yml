@@ -1,0 +1,4 @@
+root: http://example.com/subdirectory
+dldir: /Users/Example/Documents/assets 
+parsedir: /home/example/parse
+
