@@ -22,6 +22,6 @@ Here's `C004_SND.pkg` for example which, as the filename would imply, is actuall
 
 Majority of the files I've figured out or mostly figured out while others are still a mystery. Anyway, that's a story for another time.
 
-## This looks like it was written by a beginner in Python
+## This looks like it was written by a beginner in Python! There's no error checking or XYZ! Where are the tests!
 
-This was written by a beginner in Python
+This was written by a beginner in Python yup
